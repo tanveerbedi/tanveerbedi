@@ -102,8 +102,8 @@ Software Engineer | Full-Stack Developer | Machine Learning & Data Science Enthu
 - 🥈 **Top 5% in Multiple Kaggle Competitions** – Applied ML to real-world datasets; **Notebook & Dataset Expert**
 - 🌐 **Built production-grade full-stack apps** – Including SplitSync and Travelit, with modular architecture and deployed logic
 - 📢 **Marketing Head, Rotaract Thapar** – Led outreach strategy; increased event participation by **60%**
-- 📘 **Research Projects:**  
-  - *Deepfake Detection using Ensemble Models*  
+- **📘 Research Projects:**  
+  - *Satellite Image Processing & Geolocation using ThaparSat*   
   - *Road Defect Segmentation using DeepLab & YOLOv8*
 - 💼 **Internships:**  
   - **Data Science Intern** @ Celebal Technologies
