@@ -35,7 +35,7 @@
 
 ### 📌 Featured Projects
 
-#### 💰 [SplitSync](https://github.com/tanveerbedi/SplitSync) – Smart Group Expense Tracker
+#### 💰 [SplitSync  – Smart Group Expense Tracker](https://github.com/tanveerbedi/SplitSync)
 > AI-enhanced app to track and split group expenses with gamification & chat support  
 **Tech:** `Next.js`, `TypeScript`, `ShadCN UI`, `Zustand`, `Genkit`, `TTS`, `OCR`, `MongoDB`  
 ⭐ Intelligent summaries, `/commands`, receipt scanner, badges, persistent state
@@ -45,10 +45,7 @@
 **Tech:** `YOLOv8`, `DeepLabV3+`, `MobileNetV2`, `Albumentations`, `Thermal Imaging`  
 📍 Real-time segmentation + classification with saliency maps and Grad-CAM
 
-#### 🌍 [ThaparSat – Satellite Image Geolocation](https://github.com/tanveerbedi/ThaparSat)
-> Simulating NOAA & custom satellite imagery mapping  
-**Tech:** `Geospatial Analysis`, `TLE`, `Orbital Mechanics`, `Numpy`, `Matplotlib`  
-📡 Computed sub-satellite points, off-nadir angles, and geolocation grids
+
 
 #### ✈️ [Travelit](https://github.com/tanveerbedi/Travelit)
 > Django-based travel discovery & booking system  
@@ -64,15 +61,18 @@
 
 ### 🏆 Highlights & Achievements
 
-- 🥇 **Adobe Hackathon Finalist** – Persona-driven PDF Document Understanding
-- 🎖️ **ThaparSat Program Researcher** – Real-time satellite imaging & geolocation
-- 🥈 **Kaggle Notebook & Dataset Expert**
+- 🥇 **Adobe Hackathon Finalist** – Persona-driven PDF Document Understanding (2025)
+- 🏅 **Best Internship Certificate** – For advancing image processing under the **ThaparSat** project at ELC
+- 🛰️ **Led UAV-based Pavement Distress Monitoring System** – Used **YOLOv8** and **DeepLabV3+** for automated road defect detection via UAV imagery
+- 🥈 **Top 5% in Multiple Kaggle Competitions** – Applied ML to real-world datasets; **Notebook & Dataset Expert**
+- 🌐 **Built production-grade full-stack apps** – Including SplitSync and Travelit, with modular architecture and deployed logic
+- 📢 **Marketing Head, Rotaract Thapar** – Led outreach strategy; increased event participation by **60%**
 - 📘 **Research Projects:**  
   - *Deepfake Detection using Ensemble Models*  
   - *Road Defect Segmentation using DeepLab & YOLOv8*
 - 💼 **Internships:**  
-  - **Data Science Intern** @ Celebal Technologies  
-  - **Image Processing Intern** @ Thapar ELC Satellite Program
+  - **Data Science Intern** @ Celebal Technologies
+  - **Image Processing Intern** @ Thapar Satellite Program (ThaparSat)
 
 ---
 
