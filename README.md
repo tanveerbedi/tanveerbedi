@@ -29,17 +29,26 @@ Software Engineer | Full-Stack Developer | Machine Learning & Data Science Enthu
 
 ### 🔧 Tech Stack
 
-**Languages & Frameworks:**  
-`Python` • `C++` • `JavaScript` • `TypeScript` • `HTML/CSS` • `SQL`  
-`PyTorch` • `TensorFlow` • `YOLOv8` • `OpenCV` • `Transformers` • `FastAPI`  
-`Next.js` • `React` • `Django` • `TailwindCSS` • `Zustand` • `Framer Motion`  
-`MongoDB` • `SQLite` • `PostgreSQL`
+**📝 Languages & Databases**  
+`Python` • `C/C++` • `TypeScript` • `JavaScript` • `SQL` • `R` • `MATLAB`  
+`HTML/CSS` • `MySQL` • `SQLite` • `MongoDB` • `Firebase`
 
-**DevOps & Tools:**  
-`Git` • `Docker` • `VS Code` • `Vercel` • `Render` • `MLflow` • `Weights & Biases`  
-`Figma` • `Jupyter` • `Google Colab` • `Streamlit` • `Hugging Face`
+**🌐 Web & Backend Development**  
+`React.js` • `Next.js` • `Node.js` • `Django` • `Genkit` • `Zustand`  
+`TailwindCSS` • `Pillow` • `REST APIs`
 
----
+**🤖 AI / Machine Learning / Deep Learning**  
+`TensorFlow` • `PyTorch` • `Keras` • `Scikit-learn` • `Transformers`  
+`CNNs` • `RNNs` • `GANs` • `Transfer Learning` • `Hyperparameter Tuning`  
+`Model Evaluation`
+
+**🧠 Computer Vision & Image Processing**  
+`OpenCV` • `YOLOv8` • `DeepLabV3+` • `OCR` • `Image Segmentation` • `Augmentations`
+
+**⚙️ Tools & Platforms**  
+`Jupyter Notebook` • `Google Colab` • `Streamlit` • `Power BI`  
+• `MLflow` • `Docker` • `Vercel` • `Render` • `Git` • `VS Code`  
+`Hugging Face`
 
 ### 📌 Featured Projects
 
