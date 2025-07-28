@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Software Engineer | Deep Learning Practitioner | Full-Stack Developer | Open Source Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=00F7FF&center=true&vCenter=true&width=800&height=50&lines=🚀+Engineer+Transforming+Ideas+into+AI-powered+Solutions;🌐+Full-Stack+Developer+%7C+React.js%2C+Next.js%2C+Django;🧠+Applying+Deep+Learning+and+Computer+Vision+for+Real-world+Impact;💡+Building+ML+Intelligent+Systems+with+LLMs%2C+OCR%2C+Segmentation;🛰️+Satellite+Image+Processing+%7C+ThaparSat+Program" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=00F7FF&center=true&vCenter=true&width=800&height=50&lines=🚀+Engineer+Transforming+Ideas+into+AI-powered+Solutions;🌐+Full-Stack+Developer+%7C+React.js%2C+Next.js%2C+Django;🧠+Applying+Deep+Learning+and+Computer+Vision+for+Real-world+Impact;💡+Building+ML+Intelligent+Systems+with+%2C+OCR%2C+LLMs;🛰️+Satellite+Image+Processing+%7C+ThaparSat+Program" alt="Typing SVG" />
 </p>
 
 ---
