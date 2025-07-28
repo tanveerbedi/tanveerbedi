@@ -39,7 +39,7 @@ Software Engineer | Full-Stack Developer | Machine Learning & Data Science Enthu
 
 **🌐 Web & Backend Development**  
 `React.js` • `Next.js` • `Node.js` • `Django` • `Genkit` • `Zustand`  
-`TailwindCSS` • `Pillow` • `REST APIs`
+`TailwindCSS` • `REST APIs`
 
 **🤖 AI / Machine Learning / Deep Learning**  
 `TensorFlow` • `PyTorch` • `Keras` • `Scikit-learn` • `Transformers`  
