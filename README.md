@@ -3,19 +3,27 @@
 <h3 align="center">🚀 Software Engineer | Deep Learning Practitioner | Full-Stack Developer | Open Source Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Crafting+AI-powered+solutions+%F0%9F%A4%96;Building+real-time+apps+%F0%9F%92%BB;Empowering+vision+with+Deep+Learning+%F0%9F%93%B0;Researching+ML%2C+CV%2C+OCR%2C+Geospatial+Tech+%F0%9F%8C%8D" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=00F7FF&center=true&vCenter=true&width=800&height=50&lines=🚀+Engineer+Transforming+Ideas+into+AI-powered+Solutions;🌐+Full-Stack+Developer+%7C+React.js%2C+Next.js%2C+Django;🧠+Applying+Deep+Learning+and+Computer+Vision+for+Real-world+Impact;💡+Building+ML+Intelligent+Systems+with+LLMs%2C+OCR%2C+Segmentation;🛰️+Satellite+Image+Processing+%7C+ThaparSat+Program" />
 </p>
+
+---
+
+Software Engineer | Full-Stack Developer | Machine Learning & Data Science Enthusiast | Computer Vision & Deep Learning Practitioner
 
 ---
 
 ### 🌟 About Me
 
-🎓 Final-year Computer Science undergrad at Thapar Institute of Engineering & Technology  
-💡 Passionate about **AI**, **Computer Vision**, **LLMs**, and **Geospatial Intelligence**  
-🔬 Research experience in **Satellite Image Processing**, **Road Distress Detection**, and **Deepfake Detection**  
-💼 Internship experience at Celebal Technologies & ThaparSat Program  
-🧑‍💻 Actively building high-impact full-stack and AI applications  
-🏆 Kaggle Expert | Hackathon Winner | Open Source Contributor
+🎓 Final-year Computer Science student at Thapar Institute of Engineering & Technology (CGPA: 7.40) 
+💡 Passionate about solving real-world problems using **AI**, **Computer Vision**, **OCR**, and **LLMs**  
+🔍 Built & deployed ML pipelines using **YOLOv8**, **DeepLabV3+**, and **Transformers** for tasks like road defect segmentation, handwritten OCR, and geospatial analysis  
+🧑‍💻 Skilled in **React**, **Next.js**, **Django**, and **Streamlit** for building scalable full-stack and dashboard apps  
+🚀 Developed high-impact projects like **SplitSync**, **Travelit**, **AksharAI**, and **UAV Pothole Detection**  
+🛰️ Research contributor in **ThaparSat Program**, enhancing geolocation models using satellite data and TLEs  
+📊 Experienced with model evaluation, clustering, regression, and real-time data visualization using **Power BI**  
+🎯 Completed certifications in PySpark, React, SQL Optimization, and Streamlit Dashboards  
+💼 Interned at **Celebal Technologies** and **ThaparSat Program**
+📢 Led 10+ social campaigns as **Marketing Head** of Rotaract Thapar, and organized blood donation drives across 3 campuses
 
 ---
 
@@ -35,27 +43,45 @@
 
 ### 📌 Featured Projects
 
-#### 💰 [SplitSync  – Smart Group Expense Tracker](https://github.com/tanveerbedi/SplitSync)
-> AI-enhanced app to track and split group expenses with gamification & chat support  
-**Tech:** `Next.js`, `TypeScript`, `ShadCN UI`, `Zustand`, `Genkit`, `TTS`, `OCR`, `MongoDB`  
-⭐ Intelligent summaries, `/commands`, receipt scanner, badges, persistent state
+#### 💰 [SplitSync – Smart Group Expense Tracker](https://github.com/tanveerbedi/SplitSync-Smart-Group-Expense-Tracker)
+> AI-enhanced app to split and track group expenses with gamification and real-time chat  
+**Tech Stack:** `Next.js`, `TypeScript`, `ShadCN UI`, `Zustand`, `Genkit`, `OCR`, `TTS`, `MongoDB`  
+⭐ Features: Receipt scanning, /commands, intelligent summaries, badges, category suggestions, analytics
 
-#### 🛣️ [UAV Pothole Detection](https://github.com/tanveerbedi/UAV_Pothole_Detection)
-> Deep Learning-based system for UAV-captured road defect detection  
-**Tech:** `YOLOv8`, `DeepLabV3+`, `MobileNetV2`, `Albumentations`, `Thermal Imaging`  
-📍 Real-time segmentation + classification with saliency maps and Grad-CAM
+---
 
+#### ✈️ [Travelit](https://github.com/tanveerbedi/Travelit-website)
+> Django-based travel discovery & hotel booking system with Razorpay payment integration  
+**Tech Stack:** `Python`, `Django`, `SQLite`, `Razorpay`, `Pillow`, `HTML`, `CSS`, `JavaScript`  
+🧳 Admin dashboard, image upload, authentication, search filters
 
+---
 
-#### ✈️ [Travelit](https://github.com/tanveerbedi/Travelit)
-> Django-based travel discovery & booking system  
-**Tech:** `Django`, `Python`, `Razorpay`, `Pillow`, `HTML/CSS/JS`  
-🧳 Includes payment integration, hotel listing, dashboard & secure authentication
+#### 📊 [Amazon Sales Intelligence Dashboard (Power BI)](https://github.com/tanveerbedi/Amazon-Sales-Intelligence-Dashboard-using-Power-BI)
+> Interactive Power BI dashboard for analyzing Amazon sales performance  
+**Tech Stack:** `Power BI`, `DAX`, `Excel`, `Data Modeling`  
+📈 Metrics: Profit trends, top categories, regional insights, filters, and slicers
 
-#### 🧠 [ResoGAN](https://github.com/tanveerbedi/ResoGAN)
-> Deep learning-based image super-resolution  
-**Tech:** `SRCNN`, `FRCNN`, `PyTorch`, `GAN`, `OpenCV`  
-🎯 Experimental enhancement for thermal & low-light road images
+---
+
+#### 🛣️ [UAV-based Pavement Surface Distress Monitoring](https://github.com/tanveerbedi/UAV-Based-Pavement-surface-distress-monitoring-system)
+> YOLOv8 + DeepLabV3+ based real-time segmentation of road potholes from UAV images  
+**Tech Stack:** `YOLOv8`, `DeepLabV3+`, `MobileNetV2`, `Thermal Imaging`, `Albumentations`, `OpenCV`  
+📍 Includes saliency maps, Grad-CAM explainability, damage classification, and GPS mapping
+
+---
+
+#### 🧠 [ResoGAN – Resolution Enhancement with Deep Learning](https://github.com/tanveerbedi/ResoGAN-Resolution-Enhancement-with-Deep-Learning)
+> Deep learning GAN-based super-resolution for thermal and noisy images  
+**Tech Stack:** `SRCNN`, `FRCNN`, `GAN`, `PyTorch`, `OpenCV`, `Jupyter`  
+🎯 Focused on road surface clarity improvement in low-res UAV imagery
+
+---
+
+#### ✍️ [AksharAI – Devanagari Handwritten Recognition](https://github.com/tanveerbedi/AksharAI-Devanagari-Handwritten-Recognition)
+> Intelligent OCR system for Devanagari handwritten characters  
+**Tech Stack:** `CNN`, `Python`, `Keras`, `NumPy`, `Matplotlib`  
+📝 Trained on labeled datasets for character segmentation and classification
 
 ---
 
