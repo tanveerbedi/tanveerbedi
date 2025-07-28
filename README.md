@@ -77,20 +77,6 @@ Software Engineer | Full-Stack Developer | Machine Learning & Data Science Enthu
 
 ---
 
-#### 🛣️ [UAV-based Pavement Surface Distress Monitoring](https://github.com/tanveerbedi/UAV-Based-Pavement-surface-distress-monitoring-system)
-> YOLOv8 + DeepLabV3+ based real-time segmentation of road potholes from UAV images  
-**Tech Stack:** `YOLOv8`, `DeepLabV3+`, `MobileNetV2`, `Thermal Imaging`, `Albumentations`, `OpenCV`  
-📍 Includes saliency maps, Grad-CAM explainability, damage classification, and GPS mapping
-
----
-
-#### 🧠 [ResoGAN – Resolution Enhancement with Deep Learning](https://github.com/tanveerbedi/ResoGAN-Resolution-Enhancement-with-Deep-Learning)
-> Deep learning GAN-based super-resolution for thermal and noisy images  
-**Tech Stack:** `SRCNN`, `FRCNN`, `GAN`, `PyTorch`, `OpenCV`, `Jupyter`  
-🎯 Focused on road surface clarity improvement in low-res UAV imagery
-
----
-
 #### ✍️ [AksharAI – Devanagari Handwritten Recognition](https://github.com/tanveerbedi/AksharAI-Devanagari-Handwritten-Recognition)
 > Intelligent OCR system for Devanagari handwritten characters  
 **Tech Stack:** `CNN`, `Python`, `Keras`, `NumPy`, `Matplotlib`  
