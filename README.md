@@ -23,7 +23,6 @@ Software Engineer | Full-Stack Developer | Machine Learning & Data Science Enthu
 📊 Experienced with model evaluation, clustering, regression, and real-time data visualization using **Power BI**  
 🎯 Completed certifications in PySpark, React, SQL Optimization, and Streamlit Dashboards  
 💼 Interned at **Celebal Technologies** and **ThaparSat Program**
-
 📢 Led 10+ social campaigns as **Marketing Head** of Rotaract Thapar, and organized blood donation drives
 
 ---
