@@ -14,16 +14,17 @@ Software Engineer | Full-Stack Developer | Machine Learning & Data Science Enthu
 
 ### 🌟 About Me
 
-🎓 Final-year Computer Science student at Thapar Institute of Engineering & Technology (CGPA: 7.40) 
+🎓 Final-year Computer Science student at Thapar Institute of Engineering & Technology
 💡 Passionate about solving real-world problems using **AI**, **Computer Vision**, **OCR**, and **LLMs**  
-🔍 Built & deployed ML pipelines using **YOLOv8**, **DeepLabV3+**, and **Transformers** for tasks like road defect segmentation, handwritten OCR, and geospatial analysis  
+🔍 Built & deployed ML pipelines using **YOLOv8**, **DeepLabV3+**, and **Transformers**  
 🧑‍💻 Skilled in **React**, **Next.js**, **Django**, and **Streamlit** for building scalable full-stack and dashboard apps  
 🚀 Developed high-impact projects like **SplitSync**, **Travelit**, **AksharAI**, and **UAV Pothole Detection**  
 🛰️ Research contributor in **ThaparSat Program**, enhancing geolocation models using satellite data and TLEs  
 📊 Experienced with model evaluation, clustering, regression, and real-time data visualization using **Power BI**  
 🎯 Completed certifications in PySpark, React, SQL Optimization, and Streamlit Dashboards  
 💼 Interned at **Celebal Technologies** and **ThaparSat Program**
-📢 Led 10+ social campaigns as **Marketing Head** of Rotaract Thapar, and organized blood donation drives across 3 campuses
+
+📢 Led 10+ social campaigns as **Marketing Head** of Rotaract Thapar, and organized blood donation drives
 
 ---
 
