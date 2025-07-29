@@ -1,5 +1,5 @@
 <!-- Hero Banner -->
-<h1 align="center">Hi 👋, I'm Tanveer Singh</h1>
+<h1 align="center">Hi 👋, I'm Tanveer Singh Bedi</h1>
 <h3 align="center">🚀 Software Engineer | Deep Learning Practitioner | Full-Stack Developer | Open Source Enthusiast</h3>
 
 <p align="center">
